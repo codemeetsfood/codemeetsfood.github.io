@@ -1,2 +1,2 @@
-# codemeetsgood.github.io
+# codemeetsfood.github.io
 sharing my experiences
