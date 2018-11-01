@@ -5,32 +5,20 @@
 ##### Nutrition facts: Still in research
 ##### Scale:  3 Teaspoons	 == 1 Tablespoon	== 14.3 Grams
 
-## new table:
+## Ingredients:
 <table>
-<thead>
-<tr>
-<th>Name</th>
-<th>Quantity</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Whole chicken breasts</td>
-<td>1 LB</td>
-</tr>
-<tr>
-<td><a href="https://www.loblaws.ca/Food/Dairy-and-Eggs/Milk-%26-Cream/Heavy-Cream/Whipping-Cream/p/20773847_EA" rel="nofollow">35% whipping cream</a></td>
-<td>473(or 247) ML</td>
-</tr>
-<tr>
-<td><a href="https://images-na.ssl-images-amazon.com/images/I/513LIh1OlAL.jpg" rel="nofollow">Crushed tomatoes tin</a></td>
-<td>1 LB</td>
-</tr>
-<tr>
-<td><a href="https://images-na.ssl-images-amazon.com/images/I/81UeYuulNjL._SX522_.jpg" rel="nofollow">Red onions</a> chopped</td>
-<td>1/3 LB</td>
-</tr>
-<tr>
+	<thead>
+		<tr>
+			<th>Name</th>
+			<th>Quantity</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr><td>Whole chicken breasts</td><td>1 LB</td></tr>
+		<tr><td><a href="https://www.loblaws.ca/Food/Dairy-and-Eggs/Milk-%26-Cream/Heavy-Cream/Whipping-Cream/p/20773847_EA" rel="nofollow">35% whipping cream</a></td><td>473(or 247) ML</td></tr>
+		<tr><td><a href="https://images-na.ssl-images-amazon.com/images/I/513LIh1OlAL.jpg" rel="nofollow">Crushed tomatoes tin</a></td><td>1 LB</td></tr>
+		<tr><td><a href="https://images-na.ssl-images-amazon.com/images/I/81UeYuulNjL._SX522_.jpg" rel="nofollow">Red onions</a> chopped</td><td>1/3 LB</td></tr>
+		<tr>
 <td>Salt</td>
 <td>As required</td>
 </tr>
@@ -100,38 +88,6 @@
 </tr>
 </tbody>
 </table>
-
-
-## Ingredients:
-| Name  | Quantity |
-| ------------- | ------------- |
-|Whole chicken breasts  | 1 LB |
-[35% whipping cream](https://www.loblaws.ca/Food/Dairy-and-Eggs/Milk-%26-Cream/Heavy-Cream/Whipping-Cream/p/20773847_EA)  | 473(or 247) ML
-[Crushed tomatoes tin](https://images-na.ssl-images-amazon.com/images/I/513LIh1OlAL.jpg)| 1 LB
-[Red onions](https://images-na.ssl-images-amazon.com/images/I/81UeYuulNjL._SX522_.jpg) chopped | 1/3 LB
-Salt | As required
-Yogurt | 4 Tablespoon
-Chilli powder (not paprika)| 1 Teaspoon (or to taste)
-Turmeric powder| 1 Teaspoon (or to taste)
-Coriander powder | 1 Teaspoon (or to taste)
-Garam masala powder | 1 Teaspoon (or to taste)
-Ginger garlic paste| 1.5 Tablespoon
-Cashew nuts | 2 Tablespoon
-[Fennel seeds	(Saunf)](https://images-na.ssl-images-amazon.com/images/I/91CYy7z26GL._SY679_.jpg)| 1 Tablespoon
-[Dry Fenugreek leaves (Methi)](https://www.amazon.ca/Jalpur-Dried-Fenugreek-Leaves-50g/dp/B00PWEZUKE)| 2 Tablespoon
-Salted butter | 6 Tablespoon
-[ Whole Cardamon pods (Elachi)](https://static.thespicehouse.com/images/file/281/large_square_Green_Cardamom__Whole_Fancy_Pods__close.jpg) | 1 Tablespoon
-Coriander leaves (Optional) | 1 Tablespoon
-Oil (of choice) | 1 Tablespoon
-Lemon juice (optional) | 1/2 Teaspoon
-Sugar (optional) | 1 Teaspoon
-[Cooking pan with lid](https://uae.souq.com/ae-en/galaxy-non-stick-cooking-pot-30cms-23062035/i/) | 1
- 
-## test:
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
 
 ## Preparation:
 ### <a name="step-1"></a> Step 1 - Grind/Blend: 
