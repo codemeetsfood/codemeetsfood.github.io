@@ -6,9 +6,9 @@
 ##### Scale:  3 Teaspoons	 == 1 Tablespoon	== 14.3 Grams
 
 ## Ingredients:
-Name  | Quantity
-------------- | -------------
-Whole chicken breasts  | 1 LB
+| Name  | Quantity |
+| ------------- | ------------- |
+|Whole chicken breasts  | 1 LB |
 [35% whipping cream](https://www.loblaws.ca/Food/Dairy-and-Eggs/Milk-%26-Cream/Heavy-Cream/Whipping-Cream/p/20773847_EA)  | 473(or 247) ML
 [Crushed tomatoes tin](https://images-na.ssl-images-amazon.com/images/I/513LIh1OlAL.jpg)| 1 LB
 [Red onions](https://images-na.ssl-images-amazon.com/images/I/81UeYuulNjL._SX522_.jpg) chopped | 1/3 LB
