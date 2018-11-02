@@ -1,3 +1,5 @@
+## Quick Links: [Home](./../index.html)
+
 # Butter chicken recipe:
 
 ##### Cook time: Approximately 2 hours
