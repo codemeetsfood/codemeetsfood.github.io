@@ -1,4 +1,4 @@
-# Butter chicken recipie:
+# Butter chicken recipe:
 
 ##### Cook time: Approximately 2 hours
 ##### Serves: 4 to 5 approximate
@@ -18,75 +18,23 @@
 		<tr><td><a href="https://www.loblaws.ca/Food/Dairy-and-Eggs/Milk-%26-Cream/Heavy-Cream/Whipping-Cream/p/20773847_EA" rel="nofollow">35% whipping cream</a></td><td>473(or 247) ML</td></tr>
 		<tr><td><a href="https://images-na.ssl-images-amazon.com/images/I/513LIh1OlAL.jpg" rel="nofollow">Crushed tomatoes tin</a></td><td>1 LB</td></tr>
 		<tr><td><a href="https://images-na.ssl-images-amazon.com/images/I/81UeYuulNjL._SX522_.jpg" rel="nofollow">Red onions</a> chopped</td><td>1/3 LB</td></tr>
-		<tr>
-<td>Salt</td>
-<td>As required</td>
-</tr>
-<tr>
-<td>Yogurt</td>
-<td>4 Tablespoon</td>
-</tr>
-<tr>
-<td>Chilli powder (not paprika)</td>
-<td>1 Teaspoon (or to taste)</td>
-</tr>
-<tr>
-<td>Turmeric powder</td>
-<td>1 Teaspoon (or to taste)</td>
-</tr>
-<tr>
-<td>Coriander powder</td>
-<td>1 Teaspoon (or to taste)</td>
-</tr>
-<tr>
-<td>Garam masala powder</td>
-<td>1 Teaspoon (or to taste)</td>
-</tr>
-<tr>
-<td>Ginger garlic paste</td>
-<td>1.5 Tablespoon</td>
-</tr>
-<tr>
-<td>Cashew nuts</td>
-<td>2 Tablespoon</td>
-</tr>
-<tr>
-<td><a href="https://images-na.ssl-images-amazon.com/images/I/91CYy7z26GL._SY679_.jpg" rel="nofollow">Fennel seeds	(Saunf)</a></td>
-<td>1 Tablespoon</td>
-</tr>
-<tr>
-<td><a href="https://www.amazon.ca/Jalpur-Dried-Fenugreek-Leaves-50g/dp/B00PWEZUKE" rel="nofollow">Dry Fenugreek leaves (Methi)</a></td>
-<td>2 Tablespoon</td>
-</tr>
-<tr>
-<td>Salted butter</td>
-<td>6 Tablespoon</td>
-</tr>
-<tr>
-<td><a href="https://static.thespicehouse.com/images/file/281/large_square_Green_Cardamom__Whole_Fancy_Pods__close.jpg" rel="nofollow"> Whole Cardamon pods (Elachi)</a></td>
-<td>1 Tablespoon</td>
-</tr>
-<tr>
-<td>Coriander leaves (Optional)</td>
-<td>1 Tablespoon</td>
-</tr>
-<tr>
-<td>Oil (of choice)</td>
-<td>1 Tablespoon</td>
-</tr>
-<tr>
-<td>Lemon juice (optional)</td>
-<td>1/2 Teaspoon</td>
-</tr>
-<tr>
-<td>Sugar (optional)</td>
-<td>1 Teaspoon</td>
-</tr>
-<tr>
-<td><a href="https://uae.souq.com/ae-en/galaxy-non-stick-cooking-pot-30cms-23062035/i/" rel="nofollow">Cooking pan with lid</a></td>
-<td>1</td>
-</tr>
-</tbody>
+		<tr><td>Salt</td><td>As required</td></tr>
+		<tr><td>Yogurt</td><td>4 Tablespoon</td></tr>
+		<tr><td>Chilli powder (not paprika)</td><td>1 Teaspoon (or to taste)</td></tr>
+		<tr><td>Turmeric powder</td><td>1 Teaspoon (or to taste)</td></tr>
+		<tr><td>Coriander powder</td><td>1 Teaspoon (or to taste)</td></tr>
+		<tr><td>Garam masala powder</td><td>1 Teaspoon (or to taste)</td></tr>
+		<tr><td>Ginger garlic paste</td><td>1.5 Tablespoon</td></tr>
+		<tr><td>Cashew nuts</td><td>2 Tablespoon</td></tr>
+		<tr><td><a href="https://images-na.ssl-images-amazon.com/images/I/91CYy7z26GL._SY679_.jpg" rel="nofollow">Fennel seeds	(Saunf)</a></td><td>1 Tablespoon</td></tr>
+		<tr><td><a href="https://www.amazon.ca/Jalpur-Dried-Fenugreek-Leaves-50g/dp/B00PWEZUKE" rel="nofollow">Dry Fenugreek leaves (Methi)</a></td><td>2 Tablespoon</td></tr>
+		<tr><td>Salted butter</td><td>6 Tablespoon</td></tr>
+		<tr><td><a href="https://static.thespicehouse.com/images/file/281/large_square_Green_Cardamom__Whole_Fancy_Pods__close.jpg" rel="nofollow"> Whole Cardamon pods (Elachi)</a></td><td>1 Tablespoon</td></tr>
+		<tr><td>Coriander leaves (Optional)</td><td>1 Tablespoon</td></tr>
+		<tr><td>Oil (of choice)</td><td>1 Tablespoon</td></tr>
+		<tr><td>Lemon juice (optional)</td><td>1/2 Teaspoon</td></tr><tr><td>Sugar (optional)</td><td>1 Teaspoon</td></tr>
+		<tr><td><a href="https://uae.souq.com/ae-en/galaxy-non-stick-cooking-pot-30cms-23062035/i/" rel="nofollow">Cooking pan with lid</a></td><td>1</td></tr>
+	</tbody>
 </table>
 
 ## Preparation:
