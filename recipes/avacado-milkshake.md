@@ -15,8 +15,8 @@ It is a very creamy & filling thick milkshake, that is very simple to make, and 
 		</tr>
 	</thead>
 	<tbody>
-		<tr><td><a href="https://i1.wp.com/bamboocorefitness.com/wp-content/uploads/2015/08/avoripe.jpeg?w=633&ssl=1" rel="nofollow">Ripe Avacado tin</a></td><td>1</td></tr>
-		<tr><td>Milk</td><td>1 cup</td></tr>
+		<tr><td><a href="https://i1.wp.com/bamboocorefitness.com/wp-content/uploads/2015/08/avoripe.jpeg?w=633&ssl=1" rel="nofollow">Ripe Avacado</a></td><td>1</td></tr>
+		<tr><td>Milk</td><td>1.5 cup</td></tr>
 		<tr><td>Sugar (Brown / White)</td><td>1 Tsp</td></tr>
 	</tbody>
 </table>
@@ -25,6 +25,6 @@ It is a very creamy & filling thick milkshake, that is very simple to make, and 
 * Slick the avacado into half.
 * Peel the skin with the help of spoon. 
 * Cut into small pieces & transfer to blender/grinder.
-* Add 1 cup milk (or more if prefered).
+* Add 1.5 cup milk (or more if prefered).
 * Add sugar to taste & fine blend.
 * Ready to serve!
