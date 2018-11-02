@@ -1,3 +1,5 @@
+## Quick Links: [Home](./../index.html)
+
 # Avacado milkshake recipe:
 It is a very creamy & filling thick milkshake, that is very simple to make, and comes in handy as a very good alternative for breakfast.
 
