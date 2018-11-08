@@ -21,7 +21,7 @@
 		<tr><td><a href="https://images-na.ssl-images-amazon.com/images/I/513LIh1OlAL.jpg" rel="nofollow">Crushed tomatoes tin</a></td><td>1 LB</td></tr>
 		<tr><td><a href="https://images-na.ssl-images-amazon.com/images/I/81UeYuulNjL._SX522_.jpg" rel="nofollow">Red onions</a> chopped</td><td>1/3 LB</td></tr>
 		<tr><td>Salt</td><td>As required</td></tr>
-		<tr><td>Yogurt</td><td>4 Tablespoon</td></tr>
+		<tr><td>Yogurt</td><td>3 Tablespoon</td></tr>
 		<tr><td>Chilli powder (not paprika)</td><td>1 Teaspoon (or to taste)</td></tr>
 		<tr><td>Turmeric powder</td><td>1 Teaspoon (or to taste)</td></tr>
 		<tr><td>Coriander powder</td><td>1 Teaspoon (or to taste)</td></tr>
@@ -46,7 +46,7 @@
 
 ### <a name="step-2"></a> Step 2 - Marinate:
 * Take the washed chicken in a marination bowl
-* Add the following, and mix them well
+* Add `Yogurt` and the following, and mix them well
 	* 1/2 Teaspoon of turmeric powder, 
 	* 1/2 Teaspoon of chilli powder, 
 	* 1/2 Teaspoon of garam masala powder, 
